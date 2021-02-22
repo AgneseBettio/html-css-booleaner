@@ -6,7 +6,7 @@
     background-image:url(img/pattern.png);
     height: 100px;
     background-size:30%;
-    background-color: cornflowerblue;
+    background-color: #4EA0FF;
 }
 .box {
     width: 80%;
@@ -16,9 +16,43 @@
     height: 50px;
     margin-top: 40px;
 }
+section {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#credits {
+    color: #D8D8D8;
+}
+#text-booleaner {
+    color:#84CFF0;
+}
+#article-date {
+    font-size: 12px;
+}
+#image-description {
+    font-size: 12px;
+}
+.underlined-text {
+    background-color: #FFFF00;
+
+}
 table {
+    border-collapse: collapse;
     width: 100%;
 }
 .terza-colonna {
     width: 65%;
+}
+thead {
+    background-color: #20A9E5;
+    background-size: cover;
+    color: #ffffff;
+    font-weight: bold;
+}
+.colored-table-row {
+    background-color: #B1E5F2;
+}
+#footer-title {
+    color: #D8D8D8;
+    font-weight: bold;
 }
