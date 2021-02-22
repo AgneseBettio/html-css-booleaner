@@ -56,3 +56,15 @@ thead {
     color: #D8D8D8;
     font-weight: bold;
 }
+.related-article {
+    background-size: cover;
+    width: 250px;
+    height: 150px;
+    margin-bottom:15px;
+    color:#ffffff;
+    font-weight: bold;
+}
+#related-article-1 {
+    background-image: ;
+
+}
